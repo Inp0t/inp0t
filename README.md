@@ -3,7 +3,7 @@
 ![Banner](https://github.com/JefersonHeredia/JefersonHeredia/blob/main/banner.png)
 
 ## 🧠 Sobre mí
-Soy un desarrollador apasionado por crear soluciones elegantes y funcionales. Me encanta fusionar tecnología y arte, construir herramientas útiles, y aprender constantemente.
+Soy un desarrollador apasionado por crear soluciones elegantes y funcionales. Me encanta fusionar tecnología y arte, construir herramientas útiles, y aprender constantemente. También me apasionan la ciberseguridad y el biohacking, explorando cómo la tecnología puede mejorar y proteger la vida humana.
 
 - 🌱 Aprendiendo constantemente: `Django`, `Django REST`, `FastAPI`
 - 💡 Me interesa: IA, Startups, sistemas escalables y plataformas SaaS
