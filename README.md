@@ -41,7 +41,7 @@ Soy un desarrollador apasionado por crear soluciones elegantes y funcionales. Me
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/jeferson-heredia/))
 [![Portfolio](https://img.shields.io/badge/-Portafolio-000?style=flat-square&logo=firefox&logoColor=white)](https://tuweb.dev)
 
 > *"Code with soul, build with purpose."*
