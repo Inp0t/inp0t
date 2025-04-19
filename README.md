@@ -6,7 +6,7 @@
 Soy un desarrollador apasionado por crear soluciones elegantes y funcionales. Me encanta fusionar tecnología y arte, construir herramientas útiles, y aprender constantemente.
 
 - 🔭 Actualmente trabajando en: **CortesanApp** y **NeuralCompliance**
-- 🌱 Aprendiendo constantemente: `Django`, `Vue.js`, `.NET MAUI`
+- 🌱 Aprendiendo constantemente: `Django`, `Django rest`, `Fastapi`
 - 💡 Me interesa: IA, Startups, sistemas escalables y plataformas SaaS
 - 💬 Pregúntame sobre: Python, ideas de negocio, Django, APIs o automatización
 
