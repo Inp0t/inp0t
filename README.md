@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jeferson Heredia!
 
-![Banner](https://github.com/JefersonHeredia/JefersonHeredia/blob/main/banner.png)
+![Banner](https://github.com/Inp0t/inp0t/blob/main/1743098951080.jpeg)
 
 ## 🧠 Sobre mí
 Soy un desarrollador apasionado por crear soluciones elegantes y funcionales. Me encanta fusionar tecnología y arte, construir herramientas útiles, y aprender constantemente. También me apasionan la ciberseguridad y el biohacking, explorando cómo la tecnología puede mejorar y proteger la vida humana.
