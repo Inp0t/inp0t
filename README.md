@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jeferson Heredia!
 
-![Banner](https://github.com/Inp0t/inp0t/blob/main/inp0t.png)
+![Banner](https://github.com/Inp0t/inp0t/blob/main/1743098951080.jpeg)
 
 
 ## 🧠 Sobre mí
